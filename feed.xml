@@ -3,12 +3,52 @@
     <title>Megan Website Test</title>
     <link href="https://megan-website-test.pages.dev/feed.xml" rel="self" />
     <link href="https://megan-website-test.pages.dev" />
-    <updated>2024-01-18T00:17:00-08:00</updated>
+    <updated>2024-01-18T00:32:02-08:00</updated>
     <author>
         <name>Megan Suehring</name>
     </author>
     <id>https://megan-website-test.pages.dev</id>
 
+    <entry>
+        <title>Rudy&#x27;s Guide to Making a Website for Megan S.</title>
+        <author>
+            <name>Megan Suehring</name>
+        </author>
+        <link href="https://megan-website-test.pages.dev/megans-guide-to-making-a-website.html"/>
+        <id>https://megan-website-test.pages.dev/megans-guide-to-making-a-website.html</id>
+
+        <updated>2024-01-18T00:32:02-08:00</updated>
+            <summary>
+                <![CDATA[
+                    this is just me playing around with publii, i might switch my website to publii. Online accounts/downloads make an account with cloudflare.com make an account with github.com download publii Next Steps Install Publii and open it Go to GitHub and make a new repository Configure&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is just me playing around with publii, i might switch my website to publii.</p>
+<h1 id="online-accountsdownloads">Online accounts/downloads</h1>
+<ol>
+<li>make an account with <a href="https://www.cloudflare.com">cloudflare.com</a></li>
+<li>make an account with <a href="https://github.com">github.com</a></li>
+<li>download <a href="https://getpublii.com/download/">publii</a></li>
+</ol>
+<h1 id="next-steps">Next Steps</h1>
+<ul>
+<li>Install Publii and open it</li>
+<li>Go to GitHub and make a <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories">new repository</a></li>
+<li><a href="https://getpublii.com/docs/host-static-website-git-repository.html">Configure publii</a> to sync with your newly created repository. you may need this page: <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens">https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens</a></li>
+<li><a href="https://getpublii.com/docs/configure-cloudflare-pages-with-publii.html">Connect cloudflare pages with your repository</a></li>
+<li>Done! Your page should be available on the web!</li>
+</ul>
+<h1 id="wrapping-up">Wrapping up</h1>
+<ul>
+<li><a href="https://www.cloudflare.com/products/registrar/">Buy a domain through cloudflare</a> to customize your website address</li>
+<li><a href="https://support.apple.com/en-us/102540">Set up email with iCloud for free</a></li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>hello world</title>
         <author>
