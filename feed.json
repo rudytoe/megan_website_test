@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Megan Website Test",
+    "description": "",
+    "home_page_url": "https://megan-website-test.pages.dev",
+    "feed_url": "https://megan-website-test.pages.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Megan Suehring"
+    },
+    "items": [
+        {
+            "id": "https://megan-website-test.pages.dev/resume.html",
+            "url": "https://megan-website-test.pages.dev/resume.html",
+            "title": "Resume",
+            "author": {
+                "name": "Megan Suehring"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-17T23:17:26-08:00",
+            "date_modified": "2024-01-17T23:17:57-08:00"
+        },
+        {
+            "id": "https://megan-website-test.pages.dev/megs-website.html",
+            "url": "https://megan-website-test.pages.dev/megs-website.html",
+            "title": "megs website",
+            "summary": "this is great!!",
+            "content_html": "<p>this is great!!</p>\n<p> </p>",
+            "author": {
+                "name": "Megan Suehring"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-17T23:16:58-08:00",
+            "date_modified": "2024-01-17T23:16:58-08:00"
+        }
+    ]
+}
