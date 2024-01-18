@@ -5,6 +5,10 @@
 <loc>https://megan-website-test.pages.dev/</loc>
 </url>
 <url>
+<loc>https://megan-website-test.pages.dev/hello-world.html</loc>
+<lastmod>2024-01-18T00:16:32-08:00</lastmod>
+</url>
+<url>
 <loc>https://megan-website-test.pages.dev/megs-website.html</loc>
 <lastmod>2024-01-17T23:16:58-08:00</lastmod>
 </url>
@@ -14,7 +18,7 @@
 </url>
 <url>
 <loc>https://megan-website-test.pages.dev/rudy-images-test-post.html</loc>
-<lastmod>2024-01-18T00:13:55-08:00</lastmod>
+<lastmod>2024-01-18T00:17:00-08:00</lastmod>
 <image:image>
 <image:loc>https://megan-website-test.pages.dev/media/posts/3/gallery/004264-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -33,14 +37,6 @@
 </image:image>
 <image:image>
 <image:loc>https://megan-website-test.pages.dev/media/posts/3/gallery/003739-thumbnail.jpg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://megan-website-test.pages.dev/media/posts/3/01DAF3A4-F5B3-4963-9169-46D59A65A6EC_1_102_a-2.jpeg</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://megan-website-test.pages.dev/media/posts/3/C84462D9-ACF2-4195-9627-C01182355A18_1_102_a.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
