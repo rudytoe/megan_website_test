@@ -135,13 +135,13 @@
             <![CDATA[
                 <figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/004264.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/004264-thumbnail.jpg" alt="" width="720" height="482"></a></figure>
-<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/001614.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/001614-thumbnail.jpg" alt="" width="720" height="482"></a>
+<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/004264.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/004264-thumbnail.webp" alt="" width="720" height="482"></a></figure>
+<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/001614.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/001614-thumbnail.webp" alt="" width="720" height="482"></a>
 <figcaption>Hawaii</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/002190.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/002190-thumbnail.jpg" alt="" width="720" height="482"></a></figure>
-<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/002191.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/002191-thumbnail.jpg" alt="" width="720" height="482"></a></figure>
-<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/003739.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/003739-thumbnail.jpg" alt="" width="720" height="482"></a></figure>
+<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/002190.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/002190-thumbnail.webp" alt="" width="720" height="482"></a></figure>
+<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/002191.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/002191-thumbnail.webp" alt="" width="720" height="482"></a></figure>
+<figure class="gallery__item"><a href="https://megan-website-test.pages.dev/media/posts/3/gallery/003739.jpg" data-size="3872x2592"><img loading="lazy" src="https://megan-website-test.pages.dev/media/posts/3/gallery/003739-thumbnail.webp" alt="" width="720" height="482"></a></figure>
 </div></div>
             ]]>
         </content>
